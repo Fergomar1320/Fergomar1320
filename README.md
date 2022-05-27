@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Fernando Gómez Martínez
+- 👋 Hi, I’m Fernando Gómez Martínez, currently studying Computer Science Engineering at Tecnológico de Monterrey
 - 👀 I’m interested in learning and improving my programming skills
 - 🌱 I’m currently learning Several Coding Languages such as C++, Python, R, and MATLAB
 - 💞️ I’m looking to collaborate on any programming related projects
